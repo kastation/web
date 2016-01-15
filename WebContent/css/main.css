@@ -1,0 +1,10 @@
+/* This is the main css file for this angular project */
+
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+div {
+	backgroud-color: yellow;
+}
